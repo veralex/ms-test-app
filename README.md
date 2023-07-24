@@ -10,4 +10,4 @@ Since it's not a production version, some shortcuts were taken
 3. There are no tests and no error handling
 4. UI is not perfect - there are no splash screens
 5. The interface is pretty responsive
-6. For some reasons I got 403 error while I was trying to generate types from GraphQL using `content-management` client so I defined types manually with required fields only
+6. For some reasons I got 403 error while trying to generate types from GraphQL using `content-management` client so I defined types manually with required fields only
